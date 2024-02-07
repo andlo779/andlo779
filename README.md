@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, my name is Andreas
+
+- 🔭 I'm am currently working as Software Engineer at [Climate Partner](https://www.climatepartner.com/en) in Munich, Germany. We are helping companies with theire climate acttion journey and doing our best to make sure we achive the [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement). 
+
 
 <!--
 **andlo779/andlo779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
