@@ -6,7 +6,7 @@ I'm am currently working as Software Engineer at [Climate Partner](https://www.c
 
 <div align="center" width="100%">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlo779&show_icons=true&theme=synthwave&rank_icon=github)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlo779&show_icons=true&theme=synthwave&rank_icon=github&hide=contribs)
 
   <br/>
 
