@@ -1,6 +1,20 @@
-### Hi, my name is Andreas
+### Hi, my name is **Andreas**
 
-- 🔭 I'm am currently working as Software Engineer at [Climate Partner](https://www.climatepartner.com/en) in Munich, Germany. We are helping companies with theire climate acttion journey and doing our best to make sure we achive the [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement). 
+I'm am currently working as Software Engineer at [Climate Partner](https://www.climatepartner.com/en) in Munich, Germany. We are helping companies with theire climate acttion journey and doing our best to make sure we achive the [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement). 
+
+<br/><br/>
+
+<div align="center" width="100%">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlo779&show_icons=true&theme=synthwave&rank_icon=github)
+
+  <br/>
+
+  [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,html,css,java,spring,aws,mongodb,bash,vim)](https://skillicons.dev)
+  
+</div>
+
+
 
 
 <!--
