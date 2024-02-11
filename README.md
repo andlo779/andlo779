@@ -1,5 +1,7 @@
 ### Hi, my name is **Andreas**
 
+Software engineer for over 10 years with a great width of experiances and [S.O.L.I.D.](https://www.freecodecamp.org/news/solid-principles-for-better-software-design/) evangelist. 
+
 I'm am currently working as Software Engineer at [Climate Partner](https://www.climatepartner.com/en) in Munich, Germany. We are helping companies with theire climate acttion journey and doing our best to make sure we achive the [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement). 
 
 <br/><br/>
